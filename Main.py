@@ -1,5 +1,3 @@
-from google.colab import drive
-drive.mount('/content/drive')
 import utils
 import torch,utils,train
 import torchvision
